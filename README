@@ -1,0 +1,12 @@
+This program mimics a linux shell
+
+To compile run this:
+	make clean
+	make
+
+To execute run:
+	./output
+
+You may also execute to run commands from a file:
+	./output file
+
