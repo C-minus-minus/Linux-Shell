@@ -1,4 +1,5 @@
 This program mimics a linux shell
+It was for a project in school
 
 To compile run this:
 	make clean
