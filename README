@@ -1,5 +1,5 @@
 This program mimics a linux shell
-It was for a project in school
+It was for a project in school and probably makes zero sense
 
 To compile run this:
 	make clean
